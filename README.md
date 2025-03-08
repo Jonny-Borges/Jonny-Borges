@@ -2,7 +2,15 @@
 
 **`Analista de Teste / Analsita de Suporte / Desenvolvedora FullStack - Estudante`**
 
-Muito prazer meu nome é Jonny, ou "meu nome não é jonny", bricadeira, só uma zueira que escutei a vida tora kkkk. Sejam todos bem vindos este é o meu GitHub. Sou nascido em Diamantino/MT, não será mais necessário muitas informações pessoais, ta OK. Sou formado em Bacharel em Sistema de Informação pela faculdade Pitágoras em 2022, hoje estudo muito a área de desenolvimento WEB, com foco em Angular no Front-end e JAVA com Spring no back-end. Mas também já fui Analista de Suporte, este foi meu primeiro cargo na área de tecnologia, depois tive a opotunidade de ser promovido para Analista de Teste. Como já disse, hoje meu foco é o desenvolvimento, estou estudo muito sobre.
+Muito prazer, meu nome é Jonny! Ou melhor… "meu nome não é Jonny"—brincadeira! Só uma zoeira que ouvi a vida toda kkkk.
+
+Sejam muito bem-vindos ao meu GitHub! 🚀
+
+Sou natural de Diamantino/MT e formado em Sistemas de Informação pela faculdade Pitágoras (2022). Minha paixão pela tecnologia me levou a explorar diferentes áreas: comecei como Analista de Suporte, depois fui promovido a Analista de Testes, e agora meu foco está no desenvolvimento web.
+
+Atualmente, estudo bastante Angular para o Front-end e Java com Spring no Back-end. Estou sempre em busca de aprender mais e evoluir como desenvolvedor!
+
+Fique à vontade para explorar meus projetos. Bora codar? 😃💻
 
 ---
 
