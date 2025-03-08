@@ -74,6 +74,6 @@ Muito prazer meu nome é Jonny, ou "meu nome não é jonny", bricadeira, só uma
 />
 <br/>
 <br/>
-### 🤖 Referencia para a criação deste redme
+### 🤖 Referencia para a criação deste readme
 https://github.com/Larissakich/Larissakich
 </p>
